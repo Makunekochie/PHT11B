@@ -25,6 +25,19 @@ git config --global user.email "email"
 git config user.name
 git config user.email
 
+git commit -m "Create notes for Mastering CLI and Git and Github"
+
+- Initialize Git Repository
 git init
 
+=== Git Three Stages ===
+
+- Check the status of our files
 git status
+
+- Add the files into the staging area
+git add .
+git add [filename.ext]
+
+- Create a commit
+git commit -m "This is your message / description of the changes you made"
