@@ -1,0 +1,30 @@
+Version Control:
+-Keep track of changes
+-Collaborating w/ other developers
+-Undoing mistakes
+-Seeing our progress
+-Experimenting Safely
+
+Git: 
+- Version control system that records changes to our files at any given time
+-Collaborate on projects and have local versions of the project on your computer
+-Store revisions of a project in just one directory
+-Go back to a different versoion of the project
+-Work on new features...
+
+Repositories:
+-Container for a project you want to tack with Git
+-Local or Remote
+-There can be multiple repo's for different projects on your computer.
+
+# === Configuring Git ===
+git config --global user.name "username"
+git config --global user.email "email"
+
+- Check if configured correctly
+git config user.name
+git config user.email
+
+git init
+
+git status
